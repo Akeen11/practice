@@ -1,0 +1,14 @@
+body {
+    background-image: url(http://www.rewisor.com/wp-content/uploads/2018/03/rick-morty-rewisor-740x480.jpg);
+    background-size: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.card-group {
+    padding: 5%;
+}
+
+footer {
+    text-align: center;
+}
