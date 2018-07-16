@@ -1,6 +1,6 @@
 body {
     background-image: url(http://www.rewisor.com/wp-content/uploads/2018/03/rick-morty-rewisor-740x480.jpg);
-    background-size: 100%;
+    background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
 }
